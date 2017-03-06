@@ -28,7 +28,7 @@ $$ P(A \cap B) = P(B)P(A/B) = P(A)P(B/A)$$
 
 ## Complement
 
-$$ P(A) + P(\overlineA) = 1, zodat P(\overlineA) = 1 - P(A) $$
+$$ P(A) + P(\overline A) = 1 ; P(\overline A) = 1 - P(A) $$
 
 ## Eigenschappen
 
