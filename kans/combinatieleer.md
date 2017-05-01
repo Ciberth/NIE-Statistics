@@ -8,8 +8,6 @@ $$ P_n = n! $$
 
 ## Combinaties 
 
-377
-
 Kiest men uit n verschillende elementen exact p elementen **zonder terugleggen** dan spreken we van een combinatie. 
 
 $$ C_n^p = \frac{n!}{p!(n-p)!} $$ 
